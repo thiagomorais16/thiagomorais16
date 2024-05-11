@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+my+name+is+Thiago+Morais;Have+23+years;I+From+Brasil;I'm+Developer+Full-Stack;The+future+is+now;Welcome!+:%29)](https://git.io/typing-svg)<br><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Thiago+Morais;Have+23+years;I+From+Brasil;I'm+Developer+Full-Stack;The+future+is+now;Welcome!+:%29)](https://git.io/typing-svg)<br><br><br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagomorais16&show_icons=true&count_private=true&hide_border=true&title_color=fffff0&icon_color=191970&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Morais estatísticas do github" />
