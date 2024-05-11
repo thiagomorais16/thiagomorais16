@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thiago+Morais;Tenho+23+anos;Moro+no+Brasil;Sou+estudante+de+progamação;o+futuro+é+agora;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)<br><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+my+name+is+Thiago+Morais;Have+23+years;I+From+Brasil;I'm+Developer+Full-Stack;The+future+is+now;Welcome!+:%29)](https://git.io/typing-svg)<br><br><br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagomorais16&show_icons=true&count_private=true&hide_border=true&title_color=fffff0&icon_color=191970&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Morais estatísticas do github" />
@@ -22,7 +22,7 @@
  
  <hr>
   <div style="display: inline_block">
-    <h3>Minhas Skills → Front-end</h3>
+    <h3>My Skills → Front-end</h3>
     <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
     <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">-
     <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">-
@@ -33,14 +33,14 @@
   </div>
 <hr>
   <div style="display: inline_block">
-    <h3>Minhas Skills → Back-end</h3>
+    <h3>My Skills → Back-end</h3>
     <img align="center" alt="Thiago-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">-
     <img align="center" alt="Thiago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">-
     <img align="center" alt="Thiago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
 <hr>
 <div style="display: inline_block">
-  <h3>Minhas ferramentas de design</h3>
+  <h3>My Design Tools</h3>
   <img align="center" alt="Thiago-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">-
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">-
  </div>
@@ -48,14 +48,14 @@
 <hr>
 
 <div>
-  <h3>Oque estou estudando no Momento:</h3>
+  <h3>I'm student of the moment:</h3>
   <img align="center" alt="Thiago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">-
   <img align="center" alt="Thiago-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 </div>
 
 <hr>
 <div style="display: inline_block">
-  <h3>Outros</h3>
+  <h3>Others</h3>
   <img align="center" alt="Thiago-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> -
   <img align="center" alt="Thiago-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> -
   <img align="center" alt="Thiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">-
@@ -69,13 +69,13 @@
 <hr>
 
 <div align="center">
-  <br><p align="centre"><b>Contagem de visitantes</b></p>  
+  <br><p align="centre"><b>Visitor count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thiagomorais16}/count.svg" /></p> 
   <br>
 </div>
 
 <div align="center">
-  Apaixonado por programação, tecnologia e por contribuir para a vida de outras pessoas. criar inovações para novo dia
+  Passionate about programming, technology and contributing to other people's lives. create innovations for new day
 </div>
 
 <hr>
